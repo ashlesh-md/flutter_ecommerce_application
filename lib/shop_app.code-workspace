@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "shop_app",
+			"path": ".."
+		},
+		{
+			"name": "assets",
+			"path": "../../../../Downloads/E-commerce-Complete-Flutter-UI-master/assets"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,10 @@
+git init --Initialise git
+git brach -> to know the brach
+git branch branch_name --> create new branch
+git checkout branch_name --> move to the branch_name
+git add file_name -- add file locally (git add . —> add all the files)
+git status --> To know the status
+git commit -m "commit" -->commit changes locally
+git remote add origin link_of_git_repository --> connect globally if not connected
+git push -u origin branch_name --> push all the changes
+git log --> to know all the activities
